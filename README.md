@@ -22,33 +22,15 @@ Welcome to the Secret Casino Game! This is a simple, text-based casino game that
 ## How to Run
 1. Clone the repository to your local machine using Git:
    ```bash
-   git clone https://github.com/yourusername/secret-casino.git
-Navigate into the project directory:
-bash
-Copier
-cd secret-casino
-Run the Python script:
-bash
-Copier
-python casino_game.py
-Contributing
-Feel free to fork this project, submit issues, and create pull requests to contribute to the game! Suggestions for improvement and new game modes are welcome.
+   git clone https://github.com/Alexandre-dev011/secret-casino.git
 
-License
-This project is open-source and available under the MIT License.
+2. Go in the Repo:
+ ```bash
+cd Cool-Casino
 
-Have fun and good luck at the Secret Casino! 🎲💰
+3. run the project:
+```bash
+python3 Casino.py
+4. 
 
-markdown
-Copier
 
-### Explanation of Sections:
-- **Title and Introduction**: Describes the project and what the user can expect.
-- **Features**: Highlights the three games that are available to play.
-- **How to Play**: Simple instructions for the user to understand the gameplay.
-- **Requirements**: Lists the prerequisites, like Python 3.
-- **How to Run**: Step-by-step instructions for cloning the repo and running the code.
-- **Contributing**: Encourages others to contribute to the project.
-- **License**: Mentions the open-source license (you can adjust it based on your actual license type, or remove this section if not applicable).
-
-You can edit the `git clone` URL and add your license if you have one. This README will help users understand the project and contribute to it!
